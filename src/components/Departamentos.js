@@ -8,7 +8,7 @@ export default class Departamentos extends Component {
 
     //Definimos el state
     state = {
-        departamento: [],
+        departamentos: [],
         status:false
     }
 
